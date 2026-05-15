@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\CSharp_68PM2_0007268_DinhTienDat_0007268-main\\QLSinhVien.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp_68PM2_NguyenVanQuyet_0023268.git\\QLSinhVien.csproj",
       "projectName": "QLSinhVien",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\CSharp_68PM2_0007268_DinhTienDat_0007268-main\\QLSinhVien.csproj",
+      "projectPath": "C:\\Workspace\\CSharp_68PM2_NguyenVanQuyet_0023268.git\\QLSinhVien.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\CSharp_68PM2_0007268_DinhTienDat_0007268-main\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp_68PM2_NguyenVanQuyet_0023268.git\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
